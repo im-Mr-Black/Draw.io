@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-20T06:19:50.501Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="u2uFmnxhE8nSMbYQKADf" version="15.5.6" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-10-20T07:17:45.924Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="hlVjez6lkE4R5xojPV41" version="15.5.6" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="976" dy="1788" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="xT7GNEi2kDlzwK_X-h6X-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xT7GNEi2kDlzwK_X-h6X-4" target="xT7GNEi2kDlzwK_X-h6X-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="xT7GNEi2kDlzwK_X-h6X-4" value="Lossy Image&lt;br&gt;Decompression&lt;br&gt;DWT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="xT7GNEi2kDlzwK_X-h6X-4" value="Inverse LSB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="270" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xT7GNEi2kDlzwK_X-h6X-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="xT7GNEi2kDlzwK_X-h6X-6" target="xT7GNEi2kDlzwK_X-h6X-8">
